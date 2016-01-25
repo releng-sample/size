@@ -20,6 +20,7 @@
     <info 
         organisation="org.example"
         module="size"
+        branch="feature/wdtk-1222"
         status="integration"/>
     <dependencies>
       <dependency name="version" rev="latest.integration" conf="default" />
